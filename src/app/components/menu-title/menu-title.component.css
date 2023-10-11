@@ -4,12 +4,10 @@
 }
 
 .menu_title_container > h1{
-    margin-top: 10px;
+    margin-top: 15px;
     margin-bottom: 15px;
     font-size: 135px;
-    font-weight: bold;
     font-family: 'segoe UI';
-    margin: auto;
     display: flex;
     justify-content: center;
 }

@@ -1,0 +1,12 @@
+
+.container_menur_bar > ul{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.container_menur_bar > ul > li{
+    margin-right: 10px;
+    list-style: none;
+    
+}
